@@ -1,65 +1,143 @@
-### Olá! Eu sou o Gustavo
+<div align="center">
 
-Tenho 15 anos, estou no 1º ano do Ensino Médio e curso Técnico em Informática no SENAI.
-Sou estudante de desenvolvimento back-end, focado em JavaScript, TypeScript, Node.js, APIs REST e banco de dados. Atualmente estou construindo projetos reais para evoluir minhas habilidades e me tornar um desenvolvedor back-end profissional.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=GUSTAVO&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Back-end%20Developer%20%7C%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## Sobre Mim
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Back-end;JavaScript+%7C+TypeScript+%7C+Node.js;Construindo+APIs+REST+e+sistemas+reais;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
 
-- Ensino Médio + Técnico em Informática no SENAI
-- Estudando JavaScript, TypeScript, Node.js e SQL
-- Aprendendo React para complementar minha visão de front-end
-- Aprendendo desenvolvimento de APIs com Express
-- Praticando PostgreSQL e Prisma ORM
-- Explorando Supabase como alternativa de backend e autenticação
-- Aprendendo Docker para containerização de aplicações
-- Construindo projetos para meu portfólio
-- Interessado em back-end, autenticação, banco de dados e arquitetura de sistemas
+</div>
 
----
+<br/>
 
-## Tecnologias Que Estou Estudando
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
 
----
+## ── SOBRE MIM
 
-## Projeto Em Destaque
+```
+> nome        : Gustavo
+> idade       : 15 anos
+> formação    : Ensino Médio + Técnico em Informática (SENAI)
+> foco        : Back-end Development
+> stack       : JavaScript · TypeScript · Node.js · SQL
+> status      : Construindo projetos reais > estudando > repetir
+```
 
-### TaskFlow
-API REST com autenticação JWT, verificação de e-mail via Nodemailer e gerenciamento de tarefas privadas por usuário.
+Estudante de desenvolvimento back-end, com foco em **APIs REST**,
+**autenticação**, **banco de dados** e **arquitetura de sistemas**.
+Atualmente construindo projetos reais para me tornar um
+desenvolvedor back-end profissional.
 
-**Tecnologias:** Node.js · Express · PostgreSQL · Prisma · JWT · Nodemailer · HTML · CSS · JavaScript
+</td>
+<td width="40%" valign="top" align="center">
 
-[Repositório](https://github.com/gustavoverenka/taskflow)
+<img src="https://github-readme-stats.vercel.app/api?username=gustavoverenka&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&ring_color=FFFFFF" width="100%"/>
 
----
+</td>
+</tr>
+</table>
 
-## Objetivos Atuais
+<br/>
 
-- Evoluir minhas habilidades em desenvolvimento back-end
-- Aprofundar conhecimentos em TypeScript e React
-- Aplicar Docker para containerizar meus projetos
-- Explorar Supabase em novos projetos
-- Aprender testes automatizados
-- Fazer deploy dos meus projetos
-- Documentar APIs com Swagger
-- Criar mais projetos para portfólio
-  Melhorar minha organização com Git e GitHub
+## ── STACK ATUAL
 
----
+<div align="center">
 
-## Contato
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<br/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
-- GitHub: [gustavoverenka](https://github.com/gustavoverenka)
-- E-mail: `falcgugu@gmail.com`
+</div>
+
+<br/>
+
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
+
+## ── PROJETO EM DESTAQUE
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🗂 TaskFlow
+
+API REST completa com **autenticação JWT**, verificação de e-mail via
+**Nodemailer** e gerenciamento de tarefas privadas por usuário.
+
+**Stack:** Node.js · Express · PostgreSQL · Prisma · JWT · Nodemailer
+
+<a href="https://github.com/gustavoverenka/taskflow">
+<img src="https://img.shields.io/badge/Ver_Repositório-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
+
+## ── OBJETIVOS ATUAIS
+
+- [ ] Evoluir habilidades em desenvolvimento back-end
+- [ ] Aprofundar conhecimentos em TypeScript e React
+- [ ] Containerizar projetos com Docker
+- [ ] Explorar Supabase em novos projetos
+- [ ] Aprender testes automatizados
+- [ ] Fazer deploy dos projetos em produção
+- [ ] Documentar APIs com Swagger
+- [ ] Criar mais projetos para o portfólio
+- [ ] Melhorar organização com Git e GitHub
+
+<br/>
+
+## ── ATIVIDADE
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoverenka&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoverenka&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
+
+## ── CONTATO
+
+<div align="center">
+
+<a href="https://github.com/gustavoverenka">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:falcgugu@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+
+</div>
