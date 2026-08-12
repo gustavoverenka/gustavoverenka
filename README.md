@@ -1,90 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=GUSTAVO&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Back-end%20Developer%20%7C%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:0D0D0D&height=200&section=header&text=G%20U%20S%20T%20A%20V%20O&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=BACK-END%20DEVELOPER%20%E2%80%A2%20STUDENT&descAlignY=65&descSize=16&letterSpacing=6" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Back-end;JavaScript+%7C+TypeScript+%7C+Node.js;Construindo+APIs+REST+e+sistemas+reais;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=B3B3B3&center=true&vCenter=true&width=650&letterSpacing=1px&lines=%3E+JavaScript+%C2%B7+TypeScript+%C2%B7+Node.js;%3E+Construindo+APIs+REST+e+sistemas+reais;%3E+15+anos+%C2%B7+T%C3%A9cnico+em+Inform%C3%A1tica+%C2%B7+SENAI;%3E+Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
+
+<br/><br/>
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 </div>
 
 <br/>
 
-<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
+## ⎡ SOBRE MIM ⎦
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
-
-## ── SOBRE MIM
+<td width="58%" valign="top">
 
 ```
-> nome        : Gustavo
-> idade       : 15 anos
-> formação    : Ensino Médio + Técnico em Informática (SENAI)
-> foco        : Back-end Development
-> stack       : JavaScript · TypeScript · Node.js · SQL
-> status      : Construindo projetos reais > estudando > repetir
+▸ nome        : Gustavo
+▸ idade       : 15 anos
+▸ formação    : Ensino Médio + Técnico em Informática (SENAI)
+▸ foco        : Back-end Development
+▸ stack       : JavaScript · TypeScript · Node.js · SQL
+▸ status      : construindo → estudando → repetir
 ```
 
 Estudante de desenvolvimento back-end, com foco em **APIs REST**,
 **autenticação**, **banco de dados** e **arquitetura de sistemas**.
-Atualmente construindo projetos reais para me tornar um
-desenvolvedor back-end profissional.
+Construindo projetos reais para me tornar um desenvolvedor
+back-end profissional.
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavoverenka&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&ring_color=FFFFFF" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=gustavoverenka&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-## ── STACK ATUAL
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+</div>
+
+## ⎡ STACK ATUAL ⎦
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-<br/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42"/><br/>
+<sub><b>JavaScript</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="42"/><br/>
+<sub><b>TypeScript</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42"/><br/>
+<sub><b>Node.js</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="42"/><br/>
+<sub><b>Express</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="42"/><br/>
+<sub><b>React</b></sub>
+
+</td>
+</tr>
+<tr><td colspan="5" height="18"></td></tr>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42"/><br/>
+<sub><b>PostgreSQL</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="42"/><br/>
+<sub><b>Prisma</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42"/><br/>
+<sub><b>Supabase</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="42"/><br/>
+<sub><b>Docker</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://cdn.simpleicons.org/git/F05032" width="42"/><br/>
+<sub><b>Git</b></sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+</div>
+
+## ⎡ PROJETO EM DESTAQUE ⎦
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td>
+
+<div align="center">
+
+### TASKFLOW
+
+<sub>API REST • JWT AUTH • EMAIL VERIFICATION</sub>
 
 </div>
 
 <br/>
-
-<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
-
-## ── PROJETO EM DESTAQUE
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-### 🗂 TaskFlow
 
 API REST completa com **autenticação JWT**, verificação de e-mail via
 **Nodemailer** e gerenciamento de tarefas privadas por usuário.
 
-**Stack:** Node.js · Express · PostgreSQL · Prisma · JWT · Nodemailer
+<div align="center">
+
+`Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Nodemailer`
+
+<br/>
 
 <a href="https://github.com/gustavoverenka/taskflow">
-<img src="https://img.shields.io/badge/Ver_Repositório-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
+
+</div>
 
 </td>
 </tr>
@@ -92,52 +168,71 @@ API REST completa com **autenticação JWT**, verificação de e-mail via
 
 </div>
 
-<br/>
-
-<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
-
-## ── OBJETIVOS ATUAIS
-
-- [ ] Evoluir habilidades em desenvolvimento back-end
-- [ ] Aprofundar conhecimentos em TypeScript e React
-- [ ] Containerizar projetos com Docker
-- [ ] Explorar Supabase em novos projetos
-- [ ] Aprender testes automatizados
-- [ ] Fazer deploy dos projetos em produção
-- [ ] Documentar APIs com Swagger
-- [ ] Criar mais projetos para o portfólio
-- [ ] Melhorar organização com Git e GitHub
-
-<br/>
-
-## ── ATIVIDADE
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoverenka&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoverenka&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="48%"/>
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 
 </div>
 
-<br/>
+## ⎡ OBJETIVOS ATUAIS ⎦
 
-<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## ── CONTATO
+- [ ] Evoluir habilidades em back-end
+- [ ] Aprofundar TypeScript e React
+- [ ] Containerizar projetos com Docker
+- [ ] Explorar Supabase em novos projetos
+
+</td>
+<td width="50%" valign="top">
+
+- [ ] Aprender testes automatizados
+- [ ] Deploy dos projetos em produção
+- [ ] Documentar APIs com Swagger
+- [ ] Melhorar organização com Git
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+</div>
+
+## ⎡ ATIVIDADE ⎦
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoverenka&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoverenka&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="49%"/>
+
+</div>
+
+<div align="center">
+
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+</div>
+
+## ⎡ CONTATO ⎦
 
 <div align="center">
 
 <a href="https://github.com/gustavoverenka">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
 <a href="mailto:falcgugu@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+<sub>◈ desenvolvido com foco, café e muitas linhas de código ◈</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,100:000000&height=100&section=footer" width="100%"/>
