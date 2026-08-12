@@ -21,7 +21,7 @@
 <td width="58%" valign="top">
 
 ```
-▸ nome        : Gustavo
+▸ nome        : Gustavo de Falco Verenka
 ▸ idade       : 15 anos
 ▸ formação    : Ensino Médio + Técnico em Informática (SENAI)
 ▸ foco        : Back-end Development
