@@ -40,12 +40,11 @@ Estudante de desenvolvimento **back-end**. Foco em construir APIs REST sólidas 
 <img src="https://cdn.simpleicons.org/express/FFFFFF" width="28" height="28" title="Express"/>
 <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" width="28" height="28" title="PostgreSQL"/>
 <img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="28" height="28" title="Prisma"/>
-<img src="https://cdn.simpleicons.org/supabase/FFFFFF" width="28" height="28" title="Supabase"/>
 <img src="https://cdn.simpleicons.org/docker/FFFFFF" width="28" height="28" title="Docker"/>
 <img src="https://cdn.simpleicons.org/git/FFFFFF" width="28" height="28" title="Git"/>
 </p>
 
-`Node.js` `Express` `PostgreSQL` `Prisma` `Supabase` `JWT` `Docker` `Git`
+`Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Docker` `Git`
 
 <br/>
 
